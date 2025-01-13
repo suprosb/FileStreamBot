@@ -74,11 +74,11 @@
       "required": false
     },
     "BIND_ADDRESS": {
-      "description": "Your server bind address. default to 0.0.0.0",
+      "description": "streambdbot.koyeb.app",
       "required": false
     },
     "FQDN": {
-      "description": "Heroku app Link without http/s://, you can set later. its required",
+      "description": "streambdbot.koyeb.app",
       "required": false
     },
     "SESSION_NAME": {
