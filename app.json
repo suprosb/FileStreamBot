@@ -15,40 +15,40 @@
       "value": "True"
     },
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org"
+      "description": "21720330"
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org"
+      "description": "a80217f50b30502cb654b5e87c1fd42a"
     },
     "BOT_TOKEN": {
-      "description": "Get this value from @BotFather"
+      "description": "7599296541:AAFlArliuXECmdJwU_YsVcQl4LNkkuWAKwg"
     },
     "FLOG_CHANNEL": {
-      "description": "ID of Channel Where store files sent by users. Read the readme for more info about this var"
+      "description": "-1002292291261"
     },
     "ULOG_CHANNEL": {
-      "description": "ID of Channel Where store New Users data. Read the readme for more info about this var"
+      "description": "-1002292291261"
     },
     "OWNER_ID": {
       "description": "Your Telegram User ID as Owner"
     },
     "DATABASE_URL": {
-      "description": "MongoDB URI for saving User Data and Files List created by user."
+      "description": "mongodb+srv://suproboiragi2:t4GwmmrWCkUcX3Ui@cluster0.nn4hh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "AUTH_USERS": {
       "description": "Put IDs of Auth Usrs where bot will work. You can add multiple IDs & separate with Space.",
       "required": false
     },
     "UPDATES_CHANNEL": {
-      "description": "Channel Username without `@` to set channel as Update Channel",
+      "description": "nowbotupdates",
       "required": false
     },
     "FORCE_SUB_ID": {
-      "description": "Channel ID starts with -100 to set channel as Force Sub Channel",
+      "description": "-1002417857429",
       "required": false
     },
     "FORCE_SUB": {
-      "description": "Set to True, so every user have to Join update channel to use the bot.",
+      "description": "nowbotupdates",
       "required": false
     },
     "SLEEP_THRESHOLD": {
